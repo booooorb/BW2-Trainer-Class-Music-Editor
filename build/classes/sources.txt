@@ -1,0 +1,15 @@
+D:\BW2-TCME\B2W2-Trainer-Class-Music-Editor\src\main\java\core\AbstractRomBytes.java
+D:\BW2-TCME\B2W2-Trainer-Class-Music-Editor\src\main\java\core\BlackRomBytes.java
+D:\BW2-TCME\B2W2-Trainer-Class-Music-Editor\src\main\java\core\GameVersion.java
+D:\BW2-TCME\B2W2-Trainer-Class-Music-Editor\src\main\java\core\RomPatcher.java
+D:\BW2-TCME\B2W2-Trainer-Class-Music-Editor\src\main\java\core\RomProbe.java
+D:\BW2-TCME\B2W2-Trainer-Class-Music-Editor\src\main\java\core\WhiteRomBytes.java
+D:\BW2-TCME\B2W2-Trainer-Class-Music-Editor\src\main\java\io\BinaryPatcher.java
+D:\BW2-TCME\B2W2-Trainer-Class-Music-Editor\src\main\java\io\ExternalTools.java
+D:\BW2-TCME\B2W2-Trainer-Class-Music-Editor\src\main\java\io\RomExtractor.java
+D:\BW2-TCME\B2W2-Trainer-Class-Music-Editor\src\main\java\main\BWMusicPatcher.java
+D:\BW2-TCME\B2W2-Trainer-Class-Music-Editor\src\main\java\model\MusicCodes.java
+D:\BW2-TCME\B2W2-Trainer-Class-Music-Editor\src\main\java\model\MusicNames.java
+D:\BW2-TCME\B2W2-Trainer-Class-Music-Editor\src\main\java\model\MusicOption.java
+D:\BW2-TCME\B2W2-Trainer-Class-Music-Editor\src\main\java\model\TrainerNames.java
+D:\BW2-TCME\B2W2-Trainer-Class-Music-Editor\src\main\java\ui\EditorUI.java

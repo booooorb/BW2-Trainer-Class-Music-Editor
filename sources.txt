@@ -1,0 +1,2 @@
+"D:\BW2-TCME\B2W2-Trainer-Class-Music-Editor\src\main\java\main\BWMusicPatcher.java"
+"D:\BW2-TCME\B2W2-Trainer-Class-Music-Editor\src\main\java\ui\EditorUI.java"
