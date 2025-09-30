@@ -6,6 +6,7 @@ import java.nio.file.Paths;
 
 import ui.EditorUI;
 
+// patching interface
 public interface RomPatcher {
     // Run full extract -> patch -> rebuild flow and return output .nds path.
     Path patch(Path rom, Path repoRoot, Path workDir, int[] musicByIndex) throws Exception;

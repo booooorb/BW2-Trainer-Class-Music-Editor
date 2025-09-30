@@ -18,6 +18,7 @@ import model.MusicCodes;
 import java.awt.*;
 import java.io.File;
 
+// UI interface that runs functionalities
 public class EditorUI extends JFrame {
     private final JTextField romField = new JTextField();
     private final JButton browseBtn = new JButton("Browse…");
@@ -133,7 +134,6 @@ public class EditorUI extends JFrame {
         for (MusicOption opt : MusicCodes.options())
             combo.addItem(opt);
 
-        // (optional) ensure the dropdown list shows the label
         combo.setRenderer(new DefaultListCellRenderer() {
             @Override
             public Component getListCellRendererComponent(
@@ -175,7 +175,7 @@ public class EditorUI extends JFrame {
 
             try {
                 int[] music = readMusicFromTable();
-                Path target = chooseSavePath(); // your existing Save As… from earlier
+                Path target = chooseSavePath(); // save as..
                 if (target == null)
                     return;
 
@@ -249,7 +249,6 @@ public class EditorUI extends JFrame {
                 if (detectedVersion == GameVersion.WHITE2)
                     w2Radio.setSelected(true);
                 status.setText("Extracted. Detected: " + detectedVersion);
-                // keep radios locked so the user doesn’t mis-pick
                 applyBtn.setEnabled(true);
             }
         }.execute();

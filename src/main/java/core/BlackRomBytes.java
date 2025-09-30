@@ -1,5 +1,6 @@
 package core;
 
+// Bytes to be changed for Pokemon Black 2
 public class BlackRomBytes extends AbstractRomBytes {
     @Override
     public String name() {

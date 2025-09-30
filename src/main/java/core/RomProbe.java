@@ -5,6 +5,7 @@ import java.io.*;
 import java.nio.file.*;
 import java.util.*;
 
+// ensures that the file chosen is a Black 2 or White 2 ROM; or if it has been edited
 public final class RomProbe {
     private RomProbe() {
     }

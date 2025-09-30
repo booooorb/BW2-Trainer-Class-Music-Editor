@@ -1,5 +1,6 @@
 package model;
 
+// array of music names for lookup
 public class MusicNames {
     public static final String[] NAMES = {
             "SEQ_BGM_T_05_AU", // 0x00

@@ -1,5 +1,6 @@
 package core;
 
+// Bytes to be changed for Pokemon White 2
 public class WhiteRomBytes extends AbstractRomBytes {
     @Override
     public String name() {

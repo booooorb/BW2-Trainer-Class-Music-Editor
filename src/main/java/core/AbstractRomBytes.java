@@ -5,6 +5,7 @@ import io.BinaryPatcher;
 
 import java.nio.file.Path;
 
+// Abstract class for determining which bytes and at which offset should be changed depending on the version.
 abstract class AbstractRomBytes implements RomPatcher {
     // Version-specific constants:
     protected abstract long ov36_block_offset();

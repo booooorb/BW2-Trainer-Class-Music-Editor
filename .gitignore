@@ -1,0 +1,14 @@
+# Java
+*.class
+*.log
+
+# Build outputs
+dist/
+build/
+target/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.iml

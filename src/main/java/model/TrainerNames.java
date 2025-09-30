@@ -1,5 +1,6 @@
 package model;
 
+// array of trainer names for lookup
 public class TrainerNames {
     private static final String[] NAMES = new String[236];
 

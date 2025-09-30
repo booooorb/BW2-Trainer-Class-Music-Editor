@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.nio.file.Path;
 
+// writer into overlay_36, arm9 and y9
 public final class BinaryPatcher {
     private BinaryPatcher() {
     }

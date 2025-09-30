@@ -2,6 +2,7 @@ package model;
 
 import model.MusicNames;
 
+// refers to a single music piece in the game
 public class MusicOption {
     private final int code; // e.g., 0x0452
     private final String label; // UI display

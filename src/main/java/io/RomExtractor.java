@@ -5,7 +5,7 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
 import java.util.*;
 
-
+// runs ndstool and blz to extract and decompress arm9, overlay_36 and y9; handles compression
 public final class RomExtractor {
     private RomExtractor() {
     }

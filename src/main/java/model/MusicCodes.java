@@ -8,6 +8,7 @@ import java.util.TreeSet;
 
 import model.MusicNames;
 
+// array of music codes for lookup
 public class MusicCodes {
     private static final int[] MUSIC = new int[236];
 
